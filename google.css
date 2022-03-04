@@ -1,0 +1,116 @@
+.headside{
+	float:left;
+	margin-top:10px;
+	margin-bottom:20ch;
+}
+.head1{
+	float:right;
+	margin-top:10px;
+	margin-bottom:20ch;
+}
+.head1 .gmail{
+	margin-right:3ch;
+}
+.head1 .images{
+	margin-right:3ch;
+}
+.head1 .scroll{
+	margin-right:2ch;
+}
+.head1 .bell{
+	margin-right:2ch;
+}
+.head1 .log{
+	margin-right:2ch;
+}
+.google1{
+	margin-top:1ch;
+	margin-left:53ch;
+	margin-bottom:10px;
+}
+.google1 .g{
+	font-size:120px;
+	color:#3131a5;
+}
+.google1 .o1{
+	font-size:70px;
+	color:#f45036;
+}
+.google1 .o2{
+	font-size:70px;
+	color:#ffeb3b;
+}
+.google1 .g2{
+	font-size:100px;
+	color:#42416f;
+}
+.google1 .l{
+	font-size:100px;
+	color:#008405;
+}
+.google1 .e{
+	font-size:90px;
+	color:#f44336;
+}
+.searchbox{
+	margin-bottom:35px;
+}
+.searchbox #search{
+	margin-left:50ch;
+	margin-top:5px;
+	width:70ch;
+	height:4ch;
+	font-size:14px;
+}
+.searchbox #submit{
+	margin-left:-5px;
+	padding:11.2px 12px;
+	margin-top:-12px;
+	height:5ch;
+}
+.enter{
+	margin-left:63ch;
+	margin-bottom:28px;
+}
+.enter #goo{
+	padding:6.5px 4ch;
+}
+.enter #feel{
+	margin-left:1ch;
+	padding:6.5px 4ch;
+}
+.lan{
+	margin-left:58ch;
+	margin-bottom:85px;
+}
+#footer .loc{
+	background-color:#8080802e;
+	padding-top:1.4ch;
+	padding-bottom:1.4ch;
+	padding-left:3ch;
+	color:grey;
+	border:1px solid white;
+	border-bottom-color:#00000014;
+}
+#footer .credit{
+	padding-top:2ch;
+	background-color:#8080802e;
+	padding-bottom:2ch;
+	color:#000000a6;
+	padding-left:3ch;
+}
+#footer .credit .bus{
+	margin-left:19px;
+} 
+#footer .credit .about{
+	margin-left:19px;
+} 
+#footer .credit .priv{
+	margin-left:110ch;
+} 
+#footer .credit .terms{
+	margin-left:19px;
+} 
+#footer .credit .setting{
+	margin-left:19px;
+} 
